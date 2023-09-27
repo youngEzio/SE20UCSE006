@@ -3,7 +3,8 @@ AI in Industry
 
 **Contributors<br/>**
 Rounak Das SE20UCSE149<br/>
-Abhinav Chaudhry SE20UCSE006
+Abhinav Chaudhry SE20UCSE006<br/>
+Keshav Garg SE20UCSE065
 
 
 <b>

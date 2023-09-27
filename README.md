@@ -1,7 +1,7 @@
 # SE20UCSE006
 AI in Industry
 
-Contributors
+Contributors <br/>
 Rounak Das SE20UCSE149 <br/>
 Abhinav Chaudhry SE20UCSE006
 

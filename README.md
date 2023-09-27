@@ -2,8 +2,9 @@
 AI in Industry
 
 Contributors
-Rounak Das SE20UCSE149
+Rounak Das SE20UCSE149 <br/>
 Abhinav Chaudhry SE20UCSE006
+
 
 <b>
 Sensor used: Sound Sensor Module / Condenser Mic Sound Sensor<br/>
